@@ -21,7 +21,7 @@ JAVASCRIPT
 - Angula.js (TypeScript)
 - Vue.js ()
 
-Estimated Duration for spending at least 3hrs daily = 360HRS = 4Months 
+<strong>Estimated Duration for spending at least 3hrs daily = 360HRS = 4Months</strong> 
 
 <!--Voila, Dust You Resume and Start Applying for Job as a Frontend Developer-->
 
@@ -47,9 +47,9 @@ DATABASE
 - PostgreSQL
 - MySQL
 
-Estimated Duration, spending 3hrs daily = 6Months
+<strong>Estimated Duration, spending 3hrs daily = 6Months</strong>
 
-Total, 10months to be a junior youngstack developer
+<strong>Total, 10months to be a junior youngstack developer</strong>
 
 
 
