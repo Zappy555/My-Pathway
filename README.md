@@ -29,8 +29,7 @@ BACKEND
 - Scripting Language
   - Node.js (Express, Hapi)
   - Python (Django, Flask)
-  - PHP7 (Core OOP, Laravel)
-
+  
 - Functional Language
   - Haskell
   - Closure
@@ -41,7 +40,6 @@ BACKEND
 
 SERVER SIDE 
 - RESTful APIs
-- RegEx
 - Authentication (OAuth 2.0)
 
 DATABASE
